@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Laura 👋👩🏼‍💻
+
+
+![Purple Pink Simple Futuristic Era Desktop Wallpaper](https://user-images.githubusercontent.com/93741624/230791433-31dc7d42-a764-49eb-821e-ca262239f748.png)
+
+
+
+
+
 
 <!--
 **LauragarciaDS/LauragarciaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
