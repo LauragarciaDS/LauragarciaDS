@@ -9,9 +9,9 @@
 <img src="https://user-images.githubusercontent.com/93741624/230794303-bdc454c1-9f76-4851-806a-c94a448e43c3.png" width="40" height="40"> <img src="https://user-images.githubusercontent.com/93741624/230794328-6c9e3af2-0f51-420d-bb58-f04dce30e5b5.png" width="40" height="40"> <img src="https://user-images.githubusercontent.com/93741624/230794360-1406f209-1f7a-41e4-bd59-c5d87dab361b.jpg" width="40" height="40">
 
 
-| hola | hola |
+| #### Programming Languages | hola |
 | :---:|:---:|
-|adios|hola|
+|<img src="https://user-images.githubusercontent.com/93741624/230794303-bdc454c1-9f76-4851-806a-c94a448e43c3.png" width="40" height="40"> <img src="https://user-images.githubusercontent.com/93741624/230794328-6c9e3af2-0f51-420d-bb58-f04dce30e5b5.png" width="40" height="40"> <img src="https://user-images.githubusercontent.com/93741624/230794360-1406f209-1f7a-41e4-bd59-c5d87dab361b.jpg" width="40" height="40">|hola|
 
 
 
