@@ -1,6 +1,6 @@
 ### Hi there, I am Laura 👋👩🏼‍💻
 
-<img src="https://user-images.githubusercontent.com/93741624/230791548-b37706e6-e742-4667-bacb-8007872b8aa7.png" width="800" height="300">
+<img src="https://user-images.githubusercontent.com/93741624/230791548-b37706e6-e742-4667-bacb-8007872b8aa7.png" width="750" height="300">
 
 
 [![Linkedin: Laura](https://img.shields.io/badge/-Laura_García-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-garcia-ds)](https://www.linkedin.com/in/laura-garcia-ds)
