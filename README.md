@@ -1,10 +1,7 @@
 ### Hi there, I'm Laura 👋👩🏼‍💻
 
 
-![Purple Pink Simple Futuristic Era Desktop Wallpaper](https://user-images.githubusercontent.com/93741624/230791433-31dc7d42-a764-49eb-821e-ca262239f748.png)
-
-
-
+![Engelbart|100][Purple Pink Simple Futuristic Era Desktop Wallpaper](https://user-images.githubusercontent.com/93741624/230791548-b37706e6-e742-4667-bacb-8007872b8aa7.png)
 
 
 
