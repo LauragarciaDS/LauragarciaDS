@@ -6,7 +6,7 @@
 [![Linkedin: Laura](https://img.shields.io/badge/-Laura_García-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-garcia-ds)](https://www.linkedin.com/in/laura-garcia-ds)
 
 # Programming Languages
-|![icono-python](https://user-images.githubusercontent.com/93741624/230794303-bdc454c1-9f76-4851-806a-c94a448e43c3.png) | ![4492311](https://user-images.githubusercontent.com/93741624/230794328-6c9e3af2-0f51-420d-bb58-f04dce30e5b5.png) | ![dax_logo](https://user-images.githubusercontent.com/93741624/230794360-1406f209-1f7a-41e4-bd59-c5d87dab361b.jpg) |
+|<img src="https://user-images.githubusercontent.com/93741624/230794303-bdc454c1-9f76-4851-806a-c94a448e43c3.png" width="50" height="50"> | ![4492311](https://user-images.githubusercontent.com/93741624/230794328-6c9e3af2-0f51-420d-bb58-f04dce30e5b5.png) | ![dax_logo](https://user-images.githubusercontent.com/93741624/230794360-1406f209-1f7a-41e4-bd59-c5d87dab361b.jpg) |
 
 
 
