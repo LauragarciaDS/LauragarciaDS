@@ -1,8 +1,9 @@
 ### Hi there, I am Laura 👋👩🏼‍💻
 
 <img src="https://user-images.githubusercontent.com/93741624/230791548-b37706e6-e742-4667-bacb-8007872b8aa7.png" width="600" height="300">
-![image](https://user-images.githubusercontent.com/93741624/230792900-92f26b79-0bbf-4f1c-a2ce-60e4438b1755.png)
 
+
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-garcia-ds)](https://www.linkedin.com/in/laura-garcia-ds)
 
 <!--
 **LauragarciaDS/LauragarciaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
