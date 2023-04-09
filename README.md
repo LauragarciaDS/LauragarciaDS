@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/93741624/230791548-b37706e6-e742-4667-bacb-8007872b8aa7.png" width="600" height="300">
 
 
-[![Linkedin: Laura García](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-garcia-ds)](https://www.linkedin.com/in/laura-garcia-ds)
+[![Linkedin: Laura](https://img.shields.io/badge/-Laura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-garcia-ds)](https://www.linkedin.com/in/laura-garcia-ds)
 
 <!--
 **LauragarciaDS/LauragarciaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
