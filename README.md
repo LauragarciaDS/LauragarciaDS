@@ -1,7 +1,7 @@
-### Hi there, I'm Laura 👋👩🏼‍💻
+### Hi there, I am Laura 👋👩🏼‍💻
 
 <img src="https://user-images.githubusercontent.com/93741624/230791548-b37706e6-e742-4667-bacb-8007872b8aa7.png" width="600" height="300">
-![image](https://user-images.githubusercontent.com/93741624/230792125-f15a975b-b2cb-4ae6-bb5b-3fdf8b041243.png)
+![image](https://user-images.githubusercontent.com/93741624/230792900-92f26b79-0bbf-4f1c-a2ce-60e4438b1755.png)
 
 
 <!--
