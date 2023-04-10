@@ -16,10 +16,6 @@
 
 
 
-![descarga (1)](https://user-images.githubusercontent.com/93741624/230879755-48553853-adb6-4b2a-9c32-ae1e0648cd74.png)
-
-
-
 
 <!--
 **LauragarciaDS/LauragarciaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
